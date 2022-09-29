@@ -1,10 +1,10 @@
 # REACT
 
-![preview](./.github/pas.pngpng)
+![preview](./.github/pas.png.)
 
-Projeto construido com React!
+Projeto construido com ajuda da (@Rocketseat)
 
-[Clique aqui para acessar](https://ivan-jaskiu.github.io/React/reactapp/index.html)
+[Clique aqui para acessar](https://ivan-jaskiu.github.io/React/Reactapp/index.html)
 
 # Tecnologia
 - HTML
