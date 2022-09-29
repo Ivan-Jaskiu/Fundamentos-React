@@ -1,6 +1,6 @@
 # REACT
 
-![preview](./.github/pas.png.)
+![preview](././.github/pas.png)
 
 Projeto construido com ajuda da (@Rocketseat)
 
