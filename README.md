@@ -1,6 +1,6 @@
 # REACT
 
-![preview](./.github/preview.png)
+![preview](./.github/pas.pngpng)
 
 Projeto construido com React!
 
